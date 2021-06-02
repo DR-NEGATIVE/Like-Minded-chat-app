@@ -1,5 +1,5 @@
 # Like Minded 
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
+<a href="https://hack36.com"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw1uF6vYQ5Hfl0q3oJsbUelI&ust=1622705547213000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjcn7O3-PACFQAAAAAdAAAAABAD" height=20px> </a>
 
 A Flutter Chat App With Group Create, Join  Feature and profile update feature
 
