@@ -1,5 +1,5 @@
 # Like Minded 
-<img src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png" >
+<img src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png" style="height:150px width150px">
 
 A Flutter Chat App With Group Create, Join  Feature and profile update feature
 
