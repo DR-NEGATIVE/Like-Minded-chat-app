@@ -3,7 +3,7 @@
 
 A Flutter Chat App With Group Create, Join  Feature and profile update feature
 
-## Getting Started
+## Configuration Steps
 - clone repo 
 - set up firebase
 -  run flutter pub get
