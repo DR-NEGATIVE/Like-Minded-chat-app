@@ -8,7 +8,7 @@ A Flutter Chat App With Group Create, Join  Feature and profile update feature
 - set up firebase
 -  run flutter pub get
 -  flutter run 
-- And your Done :)
+- And you are Done :)
 # ScreenShot
 ![screenshot](screenshot/lOUHVVx6pUEs_1024_500.png)
 ![screenshot](screenshot/y5y5FT0Nlpj2_1440_2880.png)
